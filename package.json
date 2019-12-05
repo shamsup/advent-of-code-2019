@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "adventofcode.com/2019 solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamsup/advent-of-code-2019.git"
+  },
+  "author": "Alex Mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamsup/advent-of-code-2019/issues"
+  },
+  "homepage": "https://github.com/shamsup/advent-of-code-2019#readme"
+}
